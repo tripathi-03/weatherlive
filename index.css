@@ -82,6 +82,7 @@ nav form{
 .searchfield{
     background-color:transparent;
     font-size: 1.1rem;
+    color: red;
     outline: none;
     /* color:white ; */
 
